@@ -9,7 +9,7 @@
 
 char auth[] = BLYNK_AUTH_TOKEN; // Seu Token de Autenticação do Blynk
 char ssid[] = "Wifi 2";       // Nome da sua rede Wi-Fi
-char pass[] = "conta4900";      // Senha da sua rede Wi-Fi
+char pass[] = "********";      // Senha da sua rede Wi-Fi
 
 #define soil_moist_pin 33  // Pin do sensor de umidade
 BlynkTimer timer;
