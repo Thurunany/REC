@@ -1,11 +1,11 @@
 
-#define BLYNK_TEMPLATE_ID "TMPL2tkxnFHw_"
+#define BLYNK_TEMPLATE_ID "***************"
 #define BLYNK_TEMPLATE_NAME "REDES"
-#define BLYNK_AUTH_TOKEN "DXz3zEDXnEQAPLzZZGovdObMqoiTUsrH"
+#define BLYNK_AUTH_TOKEN "*****************"
 // Inclua as bibliotecas necessárias
 #include <WiFi.h>
 #include <WiFiClient.h>
-#include <BlynkSimpleEsp32.h>
+#include <BlynkSimpleEsp32.h>https://www.youtube.com/watch?v=v8vxTtT2S_0&list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk&pp=iAQB
 
 char auth[] = BLYNK_AUTH_TOKEN; // Seu Token de Autenticação do Blynk
 char ssid[] = "Wifi 2";       // Nome da sua rede Wi-Fi
